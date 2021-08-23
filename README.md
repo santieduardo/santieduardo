@@ -1,4 +1,7 @@
 ### Hi there 👋
+#### My name is Eduardo Santi and I am iOS Developer
+
+![Eduardo Santi' github stats](https://github-readme-stats.vercel.app/api?username=santieduardo&count_private=true&show_icons=true)
 
 <!--
 **santieduardo/santieduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
