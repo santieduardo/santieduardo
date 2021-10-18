@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Eduardo Santi' github stats](https://github-readme-stats.vercel.app/api?username=santieduardo&count_private=true&show_icons=true&theme=github_dark)
+![Eduardo Santi' github stats](https://github-readme-stats.vercel.app/api?username=santieduardo&title_color=000000&icon_color=f05237&text_color=000000&bg_color=f7f7f7&show_icons=true)
+
 
 <!--
 **santieduardo/santieduardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
