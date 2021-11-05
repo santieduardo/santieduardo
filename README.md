@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Eduardo Santi' github stats](https://github-readme-stats.vercel.app/api?username=santieduardo&title_color=000000&icon_color=f05237&text_color=000000&bg_color=f7f7f7&show_icons=true)
+![Eduardo Santi' github stats](https://github-readme-stats.vercel.app/api?username=santieduardo&theme=swift&show_icons=true)
 
 
 <!--
